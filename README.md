@@ -12,7 +12,7 @@ https://github.com/ophub/amlogic-s9xxx-armbian/releases/download/Armbian_jammy_s
 ### 3. 盒子开机候使用开心电视助手进行连接，然后开启root模式，在调试界面选择 *重启/u盘启动*
 
 
-#注意#
+# 注意
 ## 这个盒子在引导的时候无法通过hdmi显示出来
 ## 需要自己通过路由器查看 盒子的ip 
 ## 然后使用ssh去连接，根据ophub大佬的教程安装就好了。
